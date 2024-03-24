@@ -1,0 +1,66 @@
+Step 1: Download the project from the Dashboard
+Step 2: Open your project in Pycharm
+Step 3: Create a new conda envrionment
+        conda create -n reviewscrapper python==3.6.9
+                You can create this conda environment from Anaconda prompt as well as from the pycharm terminal
+
+Step 4: Select the same environment in your pycharm interpreter settings
+        File->Setting->PythonProject->PythonInterpreter
+
+Step 5:  Install all the dependencies from requirements.txt file
+        pip install -r requirements.txt
+
+Step 6 : Make sure git is installed
+            pip install GitPython or pip install PyGithub
+	(Testing purpose)
+		on your command prompt type --> git    it should show you the git usage command
+
+Step 7: Initialization of files on local machine Git
+            All the below command need to be executed from your project folder to initializie a git repository in a new or existing directory
+
+	# git init
+	# git status -- optional
+	# heroku git:remote -a name_of_app
+	# create a simple file from any of the text editor name it as .gitignore  -- optional
+	# Whatever the files or folders you don't want to push on you github repo. Add there names inside 	the file
+
+Step 8 : Deployment code to heroku Git
+	# git add .
+	# git commit -am "initial commit message"
+	# git push heroku master
+
+
+Make sure we have the heroku cli installed
+	(Testing purpose)
+		on your command prompt type --> heroku    it should show you the heroku usage command
+
+# heroku login
+# heroku create
+# git remote -v
+# conda env remove --name FlipKartScraper
+
+
+
+
+
+Task 1: Create a heroku account on heroku.com
+        https://signup.heroku.com/
+Task 2: Install GIT
+        https://git-scm.com/downloads
+Task 3: Install Heroku cli
+        https://devcenter.heroku.com/articles/heroku-cli
+
+
+Task 4:
+
+
+
+
+
+
+
+
+
+
+
+
