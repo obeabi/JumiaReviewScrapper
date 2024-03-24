@@ -40,6 +40,10 @@ Make sure we have the heroku cli installed
 # conda env remove --name FlipKartScraper
 
 
+Step 9 :How to commit future changes to github rep
+ # git add .
+ # git commit -m "your new commit message"
+ # git push or when pushing to a different branch use git push origin branch_name
 
 
 
