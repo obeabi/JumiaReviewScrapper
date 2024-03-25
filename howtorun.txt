@@ -40,7 +40,15 @@ Make sure we have the heroku cli installed
 # conda env remove --name FlipKartScraper
 
 
-Step 9 :How to commit future changes to github rep
+Step 9: How to push local code to Github
+ # git init
+ # git add .
+ # git commit -m "my first commit message"
+ # git branch -M main
+ # git remote add origin https://github.com/obeabi/JumiaReviewScrapper.git
+ # git push -u origin main or when pushing to a different branch use git push origin branch_name
+
+Step 10 :How to commit future changes to github rep
  # git add .
  # git commit -m "your new commit message"
  # git push -u origin main or when pushing to a different branch use git push origin branch_name
