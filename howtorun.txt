@@ -53,7 +53,15 @@ Step 10 :How to commit future changes to github rep
  # git commit -m "your new commit message"
  # git push -u origin main or when pushing to a different branch use git push origin branch_name
 
-
+Step 11 : How to Deploy in AWS
+# Localize file on GitHub see step 9
+# open Elastic Beanstalk in AWS under compute under services
+# Create new application/environment; app name, key & value pair, platform is Python and 3.7 runtime
+# application code: sample application and the engine is initialzes
+# create a data pipeline using Developer tools service and select CodePipleine
+# give a name and select GitHub version 2 as Source Provider  and click connect to GitHub option and install a new app
+# Find repository of interest and main branch and then next
+# Skip Build stage and select AWS Elastic Beanstalk as the Deploy provider and give an application name
 
 Task 1: Create a heroku account on heroku.com
         https://signup.heroku.com/
