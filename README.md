@@ -1,6 +1,6 @@
 "# JumiaReviewScrapper" 
 
-![JumiaReviewScrappe](https://www.google.com/imgres?q=jumia%20nigeria&imgurl=https%3A%2F%2Fblog.jumia.com.ng%2Fwp-content%2Fuploads%2F2013%2F01%2Fjumaiis.png&imgrefurl=https%3A%2F%2Fblog.jumia.com.ng%2Fexclusive-fashion-partnerships%2F&docid=stqb23dVCy1UeM&tbnid=NOBPnpD133Y1_M&vet=12ahUKEwiQuMz_uY6FAxU8v4kEHXWsDsIQM3oECH0QAA..i&w=660&h=330&hcb=2&ved=2ahUKEwiQuMz_uY6FAxU8v4kEHXWsDsIQM3oECH0QAA) https://www.jumia.com.ng/sp-find-product/
+![JumiaReviewScrapper](https://www.google.com/imgres?q=jumia%20nigeria&imgurl=https%3A%2F%2Fblog.jumia.com.ng%2Fwp-content%2Fuploads%2F2013%2F01%2Fjumaiis.png&imgrefurl=https%3A%2F%2Fblog.jumia.com.ng%2Fexclusive-fashion-partnerships%2F&docid=stqb23dVCy1UeM&tbnid=NOBPnpD133Y1_M&vet=12ahUKEwiQuMz_uY6FAxU8v4kEHXWsDsIQM3oECH0QAA..i&w=660&h=330&hcb=2&ved=2ahUKEwiQuMz_uY6FAxU8v4kEHXWsDsIQM3oECH0QAA) https://www.jumia.com.ng/sp-find-product/
 ## Objective
 
 The objective of the project is to scrape customer reviews from an online store called Jumia. The project was developed using object-oriented programming concepts, Beautiful Soup, MongoDB, logging, and exception handling.
