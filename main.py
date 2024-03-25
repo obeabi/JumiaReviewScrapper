@@ -1,11 +1,19 @@
 # doing necessary imports
-
+import logging
+from datetime import datetime
 from flask import Flask, render_template, request,jsonify
 # from flask_cors import CORS,cross_origin
 import requests
 from bs4 import BeautifulSoup as bs
 from urllib.request import urlopen as uReq, Request
 import pymongo
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, filename='logfile.txt', filemode='a', format='%(asctime)s - %(levelname)s - %(message)s')
+lg = logging.getLogger(__name__)
+today_date = datetime.today().strftime('%Y-%m-%d')
+# Specify your browser's user agent string
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36"
 
 app = Flask(__name__)  # initialising the flask app with the name 'app'
 
@@ -85,6 +93,7 @@ def index():
                     return render_template('results.html', reviews=reviews) # showing the review to the users
         except Exception as e:
             #print('something is wrong' )
+            lg.error("An error occurred: %s", str(e))
             return 'something is wrong' + ' ' + str(e)
     else:
         return render_template('index.html')
