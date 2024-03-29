@@ -41,12 +41,15 @@ Make sure we have the heroku cli installed
 
 
 Step 9: How to push local code to Github
+ # Create a repository in GitHub
+ # cd your folder location on the terminal
+ # type git to confirm it is installed on your pc
  # git init
  # git add .
  # git commit -m "my first commit message"
  # git branch -M main
  # git remote add origin https://github.com/obeabi/JumiaReviewScrapper.git
- # git push -u origin main or when pushing to a different branch use git push origin branch_name
+ # git push -u origin main or when pushing to a different branch use git push -u origin branch_name
 
 Step 10 :How to commit future changes to github rep
  # git add .
@@ -57,11 +60,36 @@ Step 11 : How to Deploy in AWS
 # Localize file on GitHub see step 9
 # open Elastic Beanstalk in AWS under compute under services
 # Create new application/environment; app name, key & value pair, platform is Python and 3.7 runtime
-# application code: sample application and the engine is initialzes
+# application code: sample application and the engine is initializes
 # create a data pipeline using Developer tools service and select CodePipleine
 # give a name and select GitHub version 2 as Source Provider  and click connect to GitHub option and install a new app
 # Find repository of interest and main branch and then next
-# Skip Build stage and select AWS Elastic Beanstalk as the Deploy provider and give an application name
+# Skip Build stage and select AWS Elastic Beanstalk as the Deploy provider and give an application name and environment name
+# Then we proceed to elastic beanstalk to obtain our ip address
+# Delete the app from CloudFormation
+
+
+
+
+Step 12 : How to Deploy in Azure
+# Create a resource
+# Create web app and select Python as runtime stack and Linux as OS
+# Select Review + Create
+# Go to Home Page and web would be available and click the web app to enter a new page/window
+# Select Deployment center setting and from source select GitHub and use the option to connect to GitHub this way you will be able to sigin
+# Fill all necessary options e.g., organization, repository, branch
+
+
+
+# open Elastic Beanstalk in AWS under compute under services
+# Create new application/environment; app name, key & value pair, platform is Python and 3.7 runtime
+# application code: sample application and the engine is initializes
+# create a data pipeline using Developer tools service and select CodePipleine
+# give a name and select GitHub version 2 as Source Provider  and click connect to GitHub option and install a new app
+# Find repository of interest and main branch and then next
+# Skip Build stage and select AWS Elastic Beanstalk as the Deploy provider and give an application name and environment name
+# Then we proceed to elastic beanstalk to obtain our ip address
+
 
 Task 1: Create a heroku account on heroku.com
         https://signup.heroku.com/
