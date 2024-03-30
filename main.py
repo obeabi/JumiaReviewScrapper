@@ -18,8 +18,6 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 app = Flask(__name__)  # initialising the flask app with the name 'app'
 
 
-
-
 @app.route('/',methods= ['POST','GET'])
 def index():
     if request.method == 'POST':
