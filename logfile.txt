@@ -1,0 +1,72 @@
+2024-03-29 19:21:14,133 - INFO -  * Restarting with stat
+2024-03-29 19:21:15,722 - WARNING -  * Debugger is active!
+2024-03-29 19:21:15,750 - INFO -  * Debugger PIN: 147-927-042
+2024-03-29 19:21:15,778 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-29 19:22:39,459 - INFO -  * Restarting with stat
+2024-03-29 19:22:40,995 - WARNING -  * Debugger is active!
+2024-03-29 19:22:41,019 - INFO -  * Debugger PIN: 147-927-042
+2024-03-29 19:22:41,041 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-29 19:24:02,305 - INFO -  * Restarting with stat
+2024-03-29 19:24:03,162 - WARNING -  * Debugger is active!
+2024-03-29 19:24:03,174 - INFO -  * Debugger PIN: 147-927-042
+2024-03-29 19:24:03,183 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-29 19:26:22,167 - INFO -  * Restarting with stat
+2024-03-29 19:26:23,701 - WARNING -  * Debugger is active!
+2024-03-29 19:26:23,726 - INFO -  * Debugger PIN: 147-927-042
+2024-03-29 19:26:23,749 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-29 19:26:46,203 - INFO -  * Restarting with stat
+2024-03-29 19:26:47,765 - WARNING -  * Debugger is active!
+2024-03-29 19:26:47,790 - INFO -  * Debugger PIN: 147-927-042
+2024-03-29 19:26:47,806 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-29 19:59:03,881 - INFO -  * Restarting with stat
+2024-03-29 19:59:05,173 - WARNING -  * Debugger is active!
+2024-03-29 19:59:05,184 - INFO -  * Debugger PIN: 147-927-042
+2024-03-29 19:59:05,192 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:22:25,933 - INFO -  * Restarting with stat
+2024-03-30 06:22:27,274 - WARNING -  * Debugger is active!
+2024-03-30 06:22:27,304 - INFO -  * Debugger PIN: 147-927-042
+2024-03-30 06:22:27,322 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:27:24,488 - INFO -  * Restarting with stat
+2024-03-30 06:27:25,241 - WARNING -  * Debugger is active!
+2024-03-30 06:27:25,255 - INFO -  * Debugger PIN: 147-927-042
+2024-03-30 06:27:25,264 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:31:43,761 - INFO -  * Restarting with stat
+2024-03-30 06:31:44,505 - WARNING -  * Debugger is active!
+2024-03-30 06:31:44,517 - INFO -  * Debugger PIN: 147-927-042
+2024-03-30 06:31:44,530 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:33:06,692 - INFO -  * Detected change in 'C:\\Users\\obemb\\PycharmProjects\\JumiaReviewScraping\\main.py', reloading
+2024-03-30 06:33:06,761 - INFO -  * Restarting with stat
+2024-03-30 06:33:08,080 - WARNING -  * Debugger is active!
+2024-03-30 06:33:08,095 - INFO -  * Debugger PIN: 147-927-042
+2024-03-30 06:33:08,111 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:37:55,528 - INFO -  * Restarting with stat
+2024-03-30 06:37:56,206 - WARNING -  * Debugger is active!
+2024-03-30 06:37:56,218 - INFO -  * Debugger PIN: 147-927-042
+2024-03-30 06:37:56,230 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:39:34,202 - INFO -  * Restarting with stat
+2024-03-30 06:39:35,518 - WARNING -  * Debugger is active!
+2024-03-30 06:39:35,541 - INFO -  * Debugger PIN: 147-927-042
+2024-03-30 06:39:35,555 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:45:38,740 - INFO -  * Restarting with stat
+2024-03-30 06:45:39,421 - WARNING -  * Debugger is active!
+2024-03-30 06:45:39,433 - INFO -  * Debugger PIN: 147-927-042
+2024-03-30 06:45:39,445 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:46:56,788 - INFO -  * Restarting with stat
+2024-03-30 06:46:59,634 - WARNING -  * Debugger is active!
+2024-03-30 06:46:59,665 - INFO -  * Debugger PIN: 147-927-042
+2024-03-30 06:46:59,697 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:49:46,242 - INFO -  * Restarting with stat
+2024-03-30 06:49:48,287 - WARNING -  * Debugger is active!
+2024-03-30 06:49:48,316 - INFO -  * Debugger PIN: 147-927-042
+2024-03-30 06:49:48,349 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:54:15,083 - INFO -  * Restarting with stat
+2024-03-30 06:54:16,536 - WARNING -  * Debugger is active!
+2024-03-30 06:54:16,560 - INFO -  * Debugger PIN: 147-927-042
+2024-03-30 06:54:16,575 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:54:56,453 - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2024-03-30 06:59:35,512 - INFO - 127.0.0.1 - - [30/Mar/2024 06:59:35] "[37mGET / HTTP/1.1[0m" 200 -
+2024-03-30 06:59:35,711 - INFO - 127.0.0.1 - - [30/Mar/2024 06:59:35] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2024-03-30 06:59:35,751 - INFO - 127.0.0.1 - - [30/Mar/2024 06:59:35] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+2024-03-30 06:59:36,744 - INFO - 127.0.0.1 - - [30/Mar/2024 06:59:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-30 06:59:58,775 - INFO - 127.0.0.1 - - [30/Mar/2024 06:59:58] "[37mPOST / HTTP/1.1[0m" 200 -
+2024-03-30 06:59:58,921 - INFO - 127.0.0.1 - - [30/Mar/2024 06:59:58] "[33mGET /style.css HTTP/1.1[0m" 404 -

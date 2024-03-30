@@ -77,7 +77,7 @@ Step 12 : How to Deploy in Azure
 # Select Review + Create
 # Go to Home Page and web would be available and click the web app to enter a new page/window
 # Select Deployment center setting and from source select GitHub and use the option to connect to GitHub this way you will be able to sigin
-# Fill all necessary options e.g., organization, repository, branch
+# Fill all necessary options e.g., organization, repository, branch and save
 
 
 
